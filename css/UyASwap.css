@@ -1,0 +1,26 @@
+.tabla a:link {
+	color: #4CAF50;
+
+}
+.tabla a:visited {
+	color: #8BC34A;
+}
+.foro{
+	background-color: #F5F5F5;
+}
+.central a:hover {
+	color: #F03724;
+}
+.central a:visited{
+	color: #031430;
+}
+nav{
+	background-color: #004D40;
+}
+#capa, #capa2, #capa3, #capa4{
+	color: red;
+	
+}
+/*a:visited { */
+/*    color:  ;*/
+/*}*/
